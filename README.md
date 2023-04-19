@@ -20,9 +20,9 @@
 |Cover_Type (7 types)                    |integer        | 1 to 7                       |Forest Cover Type designation|
 
 **Data Preprocessing**
-Dropped the soil type and dropped 3 Types from the Cover Types
-As the data didnt containany null values no need for filling null values
-The data is been Standard Scaler
+Dropped the soil type and dropped 3 Types from the Cover Types.
+As the data didnt containany null values no need for filling null values.
+The data is been Standardized.
 
 | Number of Instances:  |8896  |
 |-----------------------|--------|
@@ -59,6 +59,6 @@ The data is been Standard Scaler
 
 ---
 
-Graph of Accuracy where max iteration ranegs from 1 to 1000 for Sample 1 is:
+Graph of Accuracy where max iteration ranging from 1 to 1000 for Sample 1 is:
 
 ![alt text](https://github.com/Ramneet-17/Parameter-Optimization-SVM/blob/main/iter%20vs%20acc.png)
