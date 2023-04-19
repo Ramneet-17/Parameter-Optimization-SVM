@@ -23,6 +23,7 @@
 Dropped the soil type and dropped 3 Types from the Cover Types.
 As the data didnt containany null values no need for filling null values.
 The data is been Standardized.
+As the data was unbalanced the larger class has been undersampled.
 
 | Number of Instances:  |8896  |
 |-----------------------|--------|
